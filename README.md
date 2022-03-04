@@ -1,1 +1,1 @@
-Tutorial project
+Tutorial project - some text
